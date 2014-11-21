@@ -17,6 +17,7 @@ gem 'simple_form'
 gem 'bootstrap-datepicker-rails'
 gem 'better_errors'
 gem 'binding_of_caller'
+gem 'devise'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer',  platforms: :ruby
