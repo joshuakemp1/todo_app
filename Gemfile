@@ -18,6 +18,7 @@ gem 'bootstrap-datepicker-rails'
 gem 'better_errors'
 gem 'binding_of_caller'
 gem 'devise'
+gem 'cancan', '~> 1.6.10'
 
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
