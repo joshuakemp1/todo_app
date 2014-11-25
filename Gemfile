@@ -19,6 +19,7 @@ gem 'better_errors'
 gem 'binding_of_caller'
 gem 'devise'
 gem 'cancan', '~> 1.6.10'
+gem 'bundler', '~> 1.7.7'
 
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes

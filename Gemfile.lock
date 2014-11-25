@@ -141,6 +141,7 @@ DEPENDENCIES
   binding_of_caller
   bootstrap-datepicker-rails
   bootstrap-sass (~> 2.3.2.0)
+  bundler (~> 1.7.7)
   cancan (~> 1.6.10)
   coffee-rails (~> 4.0.0)
   devise
